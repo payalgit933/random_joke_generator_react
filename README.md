@@ -12,8 +12,8 @@ A simple and fun React application that fetches and displays random jokes using 
 - Responsive and clean UI using Tailwind CSS
 
 ## 🚀 Demo
-
 ![Screenshot](screenshot(42).png)
+
 ## 🛠️ Tech Stack
 
 - React

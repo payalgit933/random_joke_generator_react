@@ -13,7 +13,7 @@ A simple and fun React application that fetches and displays random jokes using 
 
 ## 🚀 Demo
 
-![Screenshot](Screenshot (42).png) <!-- You can replace or remove this line if you don't have a screenshot -->
+![Screenshot](Screenshot(42).png) <!-- You can replace or remove this line if you don't have a screenshot -->
 
 ## 🛠️ Tech Stack
 
